@@ -3,6 +3,8 @@
   package="com.android.bluetooth"
   android:sharedUserId="android.uid.bluetooth">
 
+<!-- Test Check-in 2 for verifying the flow  -->
+
     <original-package android:name="com.android.bluetooth" />
 
     <!-- Allows access to the Bluetooth Share Manager -->
